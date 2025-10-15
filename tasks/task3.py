@@ -2,6 +2,9 @@
 
 def solve():
 # Ниже пишите решение задачи
+    z = input()
+    v = input()
+    print(z=="awesome" or v == "awesome")
      
 
 # Код ниже не трогать! он нужен для тестов
