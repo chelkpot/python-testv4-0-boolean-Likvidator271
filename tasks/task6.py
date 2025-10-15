@@ -2,6 +2,11 @@
 
 def solve():
 # Ниже пишите решение задачи
+    kek, lol, miau = map(int, input().split())
+    z = kek*kek
+    v = lol*lol
+    r = miau*miau
+    print(z == v + r or v == z + r or r == z + v)
 
    
    
