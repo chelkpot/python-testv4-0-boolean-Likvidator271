@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-    bububu = int(input)
+    bububu = int(input())
     print(10 <= bububu <= 99)
     
    
